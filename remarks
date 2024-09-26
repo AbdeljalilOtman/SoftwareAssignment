@@ -11,3 +11,4 @@ app errors :
       - you can create a league with only spaces , in other term empty name .
       - you can create a team with empty player names.
       - in the plays part , you can enter a negative number in the score.
+      - it's better to make the team validation not finale because we might have a player that quits the league.
