@@ -1,8 +1,11 @@
 You must put your remarks here :
 - The project structure is not optimal 
 - The project does not have any documentation
-- there is no proper structure
-- no comment for the project
-- modularity (in the main file)
-- some methode work in this version of java and won't work in the next version (duplicate)
-- the flow of the app is unclear
+- There is no proper structure
+- No comment for the project
+- Modularity (in the main file)
+- Some methods work in this version of java and won't work in the next version (duplicate)
+- The flow of the app is unclear
+- The code doesn't work on all environments
+- Problems in database management 
+
