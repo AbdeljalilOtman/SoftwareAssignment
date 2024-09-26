@@ -17,4 +17,3 @@ database management errors :
       - no security
       - the modifications on the database aren't permanent (you lose all the informations after closing the app)
 code errors : 
-      - Some methods 'buttons' don't function correctly : tours_ajouter, tours_supprimer
