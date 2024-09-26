@@ -8,3 +8,4 @@ You must put your remarks here :
 - the flow of the app is unclear
 code errors : 
       - if you create a league 'A' and you reopen the app you can not modify the league 'A' 
+      - you can create a league with only spaces , in other term empty name .
