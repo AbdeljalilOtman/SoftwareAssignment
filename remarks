@@ -6,3 +6,5 @@ You must put your remarks here :
 - modularity (in the main file)
 - some methode work in this version of java and won't work in the next version (duplicate)
 - the flow of the app is unclear
+code errors : 
+      - if you create a league 'A' and you reopen the app you can not modify the league 'A' 
