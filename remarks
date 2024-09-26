@@ -1,9 +1,8 @@
 You must put your remarks here :
-
-•	The project structure is not optimal 
-•	The project does not have any documentation
-
-there is no proper structure
-no comment, no documentation for the project
-modularity (in the main file)
-some methode work in this version of java and won't work in the next version (duplicate)
+- The project structure is not optimal 
+- The project does not have any documentation
+- there is no proper structure
+- no comment for the project
+- modularity (in the main file)
+- some methode work in this version of java and won't work in the next version (duplicate)
+- 
