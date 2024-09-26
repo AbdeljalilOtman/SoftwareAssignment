@@ -1,14 +1,18 @@
 You must put your remarks here :
 - The project structure is not optimal.
 - The project does not have any documentation.
-- there is no proper structure.
-- no comment for the project.
-- modularity (in the main file).
-- some methode work in this version of java and won't work in the next version (duplicate).
-- the flow of the app is unclear.
+- There is no proper structure.
+- No comment for the project.
+- Modularity (in the main file).
+- some methods work in this version of java and won't work in the next version (duplicate).
+- The flow of the app is unclear.
+- The app  does not work on all environments.
 app errors : 
       - if you create a league 'A' and you reopen the app you can not modify the league 'A' .
       - you can create a league with only spaces , in other term empty name .
       - you can create a team with empty player names.
       - in the plays part , you can enter a negative number in the score.
       - it's better to make the team validation not finale because we might have a player that quits the league.
+database management errors :
+      - no security
+      - the modifications on the database aren't permanent (you lose all the informations after closing the app)
