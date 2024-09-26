@@ -10,3 +10,4 @@ app errors :
       - if you create a league 'A' and you reopen the app you can not modify the league 'A' .
       - you can create a league with only spaces , in other term empty name .
       - you can create a team with empty player names.
+      - in the plays part , you can enter a negative number in the score.
